@@ -1,0 +1,127 @@
+body{
+    font-family: Helvetica, Arial;
+    background-color: #ffffff;
+}
+h2{
+    text-align: center;
+}
+header{
+    float: left;
+    background-color: #7fffd4;
+    width: 100%;
+}
+header p{
+    float: right;
+    color: #ffff00;
+    font-size: 2em;
+}
+a{
+    color: #000000;
+    text-decoration: none;
+    font-weight: bold;
+}
+a:hover{
+    color:#FFF;
+    background: #0B486B;
+    padding: 20px 5px;}
+#logo{
+    float: left;
+    width: 25%;
+    height: 30%;
+    display: block;}
+.onepiece2.png{
+    float: left;
+    width: 25%;
+    height: 30%;
+    display: block;
+}
+
+nav{
+        float: right;
+        padding: 20px; }
+ul{
+    list-style: none;}
+li{
+    display: inline-block;
+    float: left;
+    padding: 10px;}
+footer{
+    background-color: gray;
+    color: white;
+    text-align: center;
+    padding: 5px;
+    clear: both;}
+
+
+
+/* dia 29/08/2022 continua aqui */
+
+/*  Estilização do formulário da página de contato */
+
+input[type=text], input[type="email"], input[type="number"], 
+textarea{
+ width: 100%;
+ padding: 12px 20px;
+ margin: 8px 0;
+ display: inline-block;
+ border: 1px solid #CCC;
+ border-radius: 12px;
+ box-sizing: border-box;
+}
+
+
+button{
+ background-color: #111010;
+ border: none;
+ color: white;
+ padding: 15px 32px;
+ margin-bottom: 20px;
+ text-align: center;
+ text-decoration: none;
+ display: inline-block;
+ font-size: 16px;
+ border-radius: 12px;
+}
+
+
+
+.onepiece{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.personagem1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.yonkou1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Roger1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.imagem1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Maeldson1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.tituloprincipal{
+    background-image: url(one-piece-strawhat-render-one-piece-luffy-hat-vector-art-png-clipart-removebg-preview);
+}
